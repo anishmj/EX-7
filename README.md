@@ -2,7 +2,8 @@
 
 ### DATE : 17-04-2023
 
-# AIM : To write the python program for simulating Traceroute command
+# AIM :
+ To write the python program for simulating Traceroute command
 
 # ALGORITHM :
 1. Start the program.
